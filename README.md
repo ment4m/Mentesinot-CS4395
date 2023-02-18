@@ -5,3 +5,6 @@ https://github.com/ment4m/Mentesinot_Portfolio/blob/main/Portfolio%20Assignment%
 
 Link for the portfolio_Assignment_1
 https://github.com/ment4m/Mentesinot_Portfolio/tree/main/PortfolioAssignment1
+
+Link for the protfolio_Assignment_2
+https://github.com/ment4m/Mentesinot_Portfolio/tree/main/PortfolioAssignment2
