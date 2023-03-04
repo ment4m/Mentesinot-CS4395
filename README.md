@@ -13,3 +13,4 @@ Link for the portfolio_Assignment_3 WorldNet
 https://github.com/ment4m/Mentesinot_Portfolio/tree/main/Portfolio_Assignment_3_WorldNet
 
 Link for the portfolio_Assignment_5 Parsing Sentences
+https://github.com/ment4m/Mentesinot_Portfolio/blob/main/Portfolio_Assignment_5_parse_sentence.pdf
