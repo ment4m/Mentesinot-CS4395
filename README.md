@@ -17,3 +17,6 @@ https://github.com/ment4m/Mentesinot_Portfolio/tree/main/Portofolio_Assignment_4
 
 Link for the portfolio_Assignment_5 Parsing Sentences
 https://github.com/ment4m/Mentesinot_Portfolio/blob/main/Portfolio_Assignment_5_parse_sentence.pdf
+
+Link for the portfolio_Assignment_6 Word Crawler
+https://github.com/ment4m/Mentesinot_Portfolio/tree/main/Portfolio_Assignment_6_Word_Crawler
