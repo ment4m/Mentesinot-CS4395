@@ -20,3 +20,6 @@ https://github.com/ment4m/Mentesinot_Portfolio/blob/main/Portfolio_Assignment_5_
 
 Link for the portfolio_Assignment_6 Word Crawler
 https://github.com/ment4m/Mentesinot_Portfolio/tree/main/Portfolio_Assignment_6_Word_Crawler
+
+Link for the portfolio_Assignment_7 Text Classification
+https://github.com/ment4m/Mentesinot_Portfolio/tree/main/Portfolio_Assignment_7_Text_Classification
