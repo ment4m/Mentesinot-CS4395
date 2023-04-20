@@ -26,3 +26,6 @@ https://github.com/ment4m/Mentesinot_Portfolio/tree/main/Portfolio_Assignment_7_
 
 Link for the portfolio_Assignment_8 ACL Paper Summary
 https://github.com/ment4m/Mentesinot_Portfolio/blob/main/PortfolioAsignment8_ACL_Paper_Summary.pdf
+
+Link for the portfolio_Assignment_9 Text Classification_2
+https://github.com/ment4m/Mentesinot_Portfolio/tree/main/Portfolio_Assignment_9_Text_Classification2
